@@ -1,0 +1,397 @@
+body {
+    margin: 0;
+}
+.footer{
+    padding-top: 8%;
+}
+#barra1 {
+    text-align: center; 
+    margin: 0px auto;
+    background: #006699;
+    border-radius: 20px 20px 0px 0px;text-align: center;
+    margin: 0px auto;
+    border-radius: 20px 20px 0px 0px;
+    
+}
+#barra2 {
+    text-align: center;
+    margin: 0px auto;
+    border-radius: 20px 20px 0px 0px;text-align: center;
+    margin: 0px auto;
+    background: #006699;
+    border-radius: 20px 20px 20px 20px;
+    
+}
+#barra3 {
+    text-align: center;
+    margin: 0px auto;
+    border-radius: 20px 20px 0px 0px;text-align: center;
+    margin: 0px auto;
+    background: linear-gradient(to bottom, rgba(231,87,39,1) 0%, rgba(246,80,14,1) 17%, rgba(240,86,25,1) 29%, rgba(248,111,48,1) 74%, rgba(241,136,91,1) 95%, rgba(241,136,91,1) 100%);
+    border-radius: 20px 20px 0px 0px;
+    
+}
+.width20{
+    width:20% !important;
+}
+.width60{
+    width:60% !important;
+}
+.width29{
+    width:29% !important;
+    
+}
+.width42{
+    width:42% !important;
+}
+.lh90{
+    line-height: 90% !important;
+}
+.container01{
+     border-radius: 20px 20px 20px 20px;
+    padding-top: 1%;
+}
+.tabelaz
+     {
+       margin: 0px;
+       width:100%;
+       border-radius: 10px 10px 10px 10px;
+       padding: 0.5% 3% 3% 3%;
+
+}
+paddingleft{
+    padding-left: 1%;
+}
+
+.paddingbox{
+    padding-top:3%;
+    }
+.table0{
+    padding:500px;
+}
+@media screen and (min-width:1000px){
+    #MenuBar{
+        min-width:1000px;
+    }
+}
+@media screen and (max-width:999px){
+    #MenuBar{
+        min-width:800px;
+    }
+}
+@media screen and (max-width:800px){
+    #MenuBar{
+        min-width:600px;
+    }
+}
+@media screen and (max-width:600px){
+    #MenuBar{
+        min-width:400px;
+    }
+}
+@media screen and (max-width:400px){
+    #MenuBar{
+        min-width:200px;
+    }
+}
+
+#TopImageDIV{
+    height: 250px;
+    width: 50%;
+    margin:0 auto 3% auto;
+    }
+#TopImageDIVMainPage{
+    height: 250px;
+    width: 50%;
+    margin:0 auto 10% auto;
+}
+    
+#TopImage{
+    height: 100%;
+    width: 100%;
+    }
+
+#MenuBar{
+    height: 75px;
+    width:60px;
+    cursor:pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:15%;
+    }
+
+#PlayBar{
+    width:400px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+#BoardPlayImage{
+    margin: 0 auto;
+    display:block;
+    height:40%;
+    width:40%;
+}
+.container {
+    width:100%;
+    border-radius:0px 00px 10px 10px;
+    text-align: left;
+    padding: 0.5% 3% 3% 3%;
+}
+
+.LoginBox2{
+    padding:10px;
+    text-align:left;
+    padding-left: 1%;
+    border-radius:0px 00px 10px 10px;
+    padding: 0.5% 3% 3% 3%;
+}
+.LoginBox{
+    margin-left: auto;
+    margin-right: auto;
+    width: 26%;
+    padding:10px;
+    text-align:center;
+    border-radius:0px 00px 10px 10px;
+    
+}
+.LoginBody input{
+    margin-bottom:2%;
+    margin-top:2%;
+    max-width:50%;
+    border:0;
+}
+.loginbutton{
+    border:0;
+    padding:15px 20px 15px 20px;
+    margin:5% auto 5% auto;
+    display:block;
+    width:44%;
+}
+.notregisteredwarning{
+    margin-top:10%;
+}
+#Leaderboard{
+       margin: 0px;
+       width:100%;
+       border-radius:0px 00px 10px 10px;
+       padding: 0.5% 3% 3% 3%;
+
+}
+.LoginBox h1{
+    text-align:center;
+}
+
+.Info{
+    height:40%;
+    width:30%;
+    margin:0 auto;
+
+}
+.Info div{
+    float:right;
+}
+.Info img{
+    float:left;
+    clear:both;
+    padding:5px;
+    border: 3px solid black;
+
+}
+#video {
+    margin-left: 30%;
+    margin-right: 30%;
+    clear:both;
+}
+#back {
+    text-align: center;
+    margin-left: 50%;
+    margin-right: 50%;
+    clear: both;
+}
+#Leaderboard h2{
+    text-align:center;
+}
+.container2 {
+    width: 40%;
+    border-radius: 15px 50px;
+    text-align: center;
+    margin:auto;
+    clear:both;
+    min-width: 300px;
+    padding:2%;
+    margin-bottom:3%;
+
+}
+.container2 h2 {
+    text-align:center;
+}
+#AlexFace {
+    display: block;
+
+
+}
+
+#SerFace {
+    display: block;
+
+}
+
+#RubFace {
+    display: block;
+
+}
+
+#Alex {
+    width:17%;
+    vertical-align: top;
+    display:inline-block;
+    float:left;
+    margin:0 3% 0 15%;
+    text-align:center;
+}
+
+#Ruben {
+    width:17%;
+    vertical-align: top;
+    display:inline-block;
+    float:left;
+    margin:0 0 0 3%;
+    text-align:center;
+}
+#Sergio {
+    width:17%;
+    vertical-align: top;
+    display:inline-block;
+    float:left;
+    margin:0 3% 0 3%;
+}
+#menu1{
+    width: 200px;
+    height: 150px;
+    float:left;
+    border-radius:10px 0 0 10px;
+}
+
+#menu2{
+    width: 200px;
+    height: 150px;
+    float:left;
+}
+#menu3{
+    width: 200px;
+    height: 150px;
+    float:left;
+}
+#menu4{
+    width: 200px;
+    height: 150px;
+    float:left;
+}
+#menu5{
+    width: 200px;
+    height: 150px;
+    float:left;
+    border-radius:0 10px 10px 0;
+}
+
+#SinglePlayerPlayBar{
+    padding: 10px 0 10px 42px;
+}
+#MultiPlayerPlayBar{
+    padding: 10px 0 10px 42px;
+}
+#CoopPlayBar{
+    padding: 10px 0 10px 42px;
+}
+#TimeAttackPlayBar{		
+    padding: 10px 0 10px 42px;		
+}
+.table{
+    table-layout:fixed;
+    width:100%;
+    height:100%;
+    border:1px solid #5c85a8;
+    margin:0 auto;
+}
+.table th{
+    width:30%;
+    height:70px;
+}
+.table td{
+    padding:5px;
+    border-right: 1px solid #c2c2d6;
+    border-bottom: 1px solid #c2c2d6;
+}
+#titulo2{
+    text-align: center;
+}
+.titulo3{
+    text-align: left;
+}
+#container p {
+    text-align:justify;
+}
+
+.MenuPequeno{
+    width:100%;
+    min-height:37px;
+    margin:0;
+}
+.MenuPequeno > div > ul{
+    margin-left:32%;
+}
+.MenuPequeno > div{
+    min-height:38px;
+    margin:0;
+}
+.MenuPequeno > div > ul > li{
+    display:inline-block;
+    margin-left:2%;
+}
+.BlueBall{
+    padding: 9px 0 10px 42px;
+}
+.GreenBall{
+    padding:10px 0 10px 42px;
+}
+.RedBall{
+    padding:10px 0 10px 42px;
+}
+.YellowBall{
+    padding:10px 0 10px 42px;
+}
+.PinkBall{
+    padding:10px 0 10px 42px;
+}
+.LoginBox select{
+    max-width:50%;
+    margin-bottom:3%;
+    border-radius:20px;
+}
+.table4{
+    width:20%;
+    height:auto;
+    border:1px solid #5c85a8;
+    margin:0 auto;
+    border-collapse: collapse;
+    margin-bottom: 5%;
+    clear:both;
+    position: relative;
+    top:10px;
+}
+.table4 th{
+    border:1px solid black;
+    width:30%;
+    height:70px;
+}
+.table4 td{
+    padding:5px;
+    border-right: 1px solid #c2c2d6;
+    border-bottom: 1px solid #c2c2d6;
+}
+
+.Balls{
+    width:25%;
+    margin:0 auto;
+}

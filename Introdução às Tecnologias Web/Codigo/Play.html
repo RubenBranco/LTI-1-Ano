@@ -1,0 +1,62 @@
+<!DOCTYPE html>   
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-light-blue.css">
+        <link rel="icon" href="../Multimedia/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="../Multimedia/favicon.ico" type="image/x-icon" />
+        <link href="./position.css" rel="stylesheet" type="text/css">
+        <link href="./style.css" rel="stylesheet" type="text/css">
+        <script src="./play.js"></script>
+<title>MasterMind - Play Menu</title>
+</head>
+<body>
+
+   <header class=" w3-container w3-center ">
+        <div  class="w3-container  w3-center w3-margin-top" ID="TopImageDIVMainPage"><a href="./Mainpage.html"><img ID="TopImage" src="../Multimedia/Mastermind-Logo.png" alt="Logo"></a>
+        </div>
+    </header>
+    
+    <nav class=" w3-large w3-row">
+        <div class="w3-col width20">
+            <p></p>
+        </div>
+        <div id="barra2" class=" MenuPequeno w3-col w3-center-align w3-padding-hor-120 width60">
+            <ul>
+                <li class=" w3-bar-item w3-btn w3-mobile w3-hover-clear"><i class="GreenBall"></i><a id="loginOrUser"></a></li>
+            <li class="w3-bar-item w3-btn  w3-mobile"><i class="RedBall"></i><a href="./leaderboard.html">Leaderboard</a></li>
+            <li class=" w3-bar-item w3-btn w3-mobile"><i class="YellowBall"></i><a href="./rules.html">Wiki/Trivia</a></li>
+                <li class="w3-bar-item w3-btn w3-mobile"><i class="PinkBall"></i><a href="./Creators.html">Creators Info</a></li>
+        </ul>
+            </div>
+        <div class="w3-col width20">
+            <p></p>
+            </div>
+        </nav>
+    
+    <nav ID="PlayBar" class="w3-container">
+        <ul>
+        <li ID="SinglePlayerPlayBar"><a id="singleplayerOption" href="./options.html">SinglePlayer</a></li>
+        <li ID="MultiPlayerPlayBar"><a id="multiplayerOption" href="./options.html">MultiPlayer</a></li>
+        <li ID="CoopPlayBar"><a id="coopOption" href="./options.html">Coop</a></li>
+        <li id="TimeAttackPlayBar"><a id="timeattackOption" href="./options.html">Time Attack</a></li>
+    </ul>
+    </nav>
+   <footer class="w3-small w3-center footer lh90">
+        <div class="w3-padding-hor-32"> 
+            <p><a href="./Creators.html">Grupo 016</a></p>
+            <p><p><p><a href="https://moodle.ciencias.ulisboa.pt/course/view.php?id=604">Disciplina: Introdução às Tecnologias Web</a></p>
+            <p><p><a href="https://fenix.ciencias.ulisboa.pt/degrees/tecnologias-de-informacao-564500436615450">Licenciatura em Tecnologias de Informação</a></p>
+            <p><a href="">2017 - All Rights Reserved</a></p>
+        </div>
+    </footer>
+    <audio loop autoplay>
+        <source src="../Multimedia/song.mp3" type="audio/mp3">
+        <source src="../Multimedia/song.ogg" type="audio/ogg">
+        <p>Your browser does not support the audio element.</p>
+    </audio>
+    <div class="w3-container w3-display-topright"><button class="w3-button w3-tiny w3-round w3-indigo" id="logout">Logout</button></div>
+</body>
+</html>

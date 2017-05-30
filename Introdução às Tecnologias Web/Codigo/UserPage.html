@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-light-blue.css">
+    <link rel="icon" href="../Multimedia/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="../Multimedia/favicon.ico" type="image/x-icon" />
+    <link href="./position.css" rel="stylesheet" type="text/css">
+    <link href="./style.css" rel="stylesheet" type="text/css">
+       <script src="./userPage.js"></script>
+    <title>MasterMind - User Profile</title>
+</head>
+<body class="LoginBody">
+
+<header class=" w3-container w3-center ">
+        <div  class="w3-container  w3-center w3-margin-top" ID="TopImageDIVMainPage"><a href="./Mainpage.html"><img ID="TopImage" src="../Multimedia/Mastermind-Logo.png" alt="Logo"></a>
+        </div>
+    </header>
+    <div class="w3-container w3-display-topright">
+        <button class="w3-button w3-tiny w3-round w3-indigo" id="logout">Logout</button>
+    </div>
+    <nav class=" w3-large w3-row">
+        <div class="w3-col width20">
+            <p></p>
+        </div>
+        <div id="barra1" class=" MenuPequeno w3-col w3-center-align w3-padding-hor-120 width60 ">
+            <ul>
+                <li class="w3-bar-item w3-btn w3-mobile"><i class="PinkBall"></i><a href="./Play.html">Play</a></li>
+            <li class="w3-bar-item w3-btn  w3-mobile"><i class="RedBall"></i><a href="./leaderboard.html">Leaderboard</a></li>
+            <li class=" w3-bar-item w3-btn w3-mobile"><i class="YellowBall"></i><a href="./rules.html">Wiki/Trivia</a></li>
+                <li class="w3-bar-item w3-btn w3-mobile"><i class="PinkBall"></i><a href="./Creators.html">Creators Info</a></li>
+        </ul>
+            </div>
+    </nav>
+<section class="w3-large w3-row">
+    <div class="w3-col width20">
+            <p></p>
+    </div>
+    <div class="LoginBox2 w3-theme-l2 w3-col width60">
+
+    <h1 class="titulo2">Welcome, <span id="username"></span></h1>
+        <h3 class=""> General Info: </h3>
+    <p>First Name: <span id='firstName'></span></p>
+    <p>Last Name: <span id='lastName'></span></p>
+    <p>Date of Birth: <span id="birthDate"></span></p>
+    <p>Change Password:<input type="password" class="LoginInput" name="New_Password" id="newPassword" placeholder="New Password"/>
+    <p>Change Email:<input type="email" class="LoginInput" name="New_Email" id="newEmail" placeholder="New Email"/>
+        <button class="loginbutton" id="changeUser">SUBMIT</button>
+        </div>
+    <div class="w3-col width20">
+            <p></p>
+    </div>
+</section>
+<section class="w3-center w3-large w3-row">
+     <div class="w3-col width20">
+            <p></p>
+    </div>
+    <div class=" w3-section tabelaz w3-theme-l2 w3-col w3-center-align width60">
+        <h2> Statistics</h2>
+        <table class=" w3-table-all w3-centered w3-bordered w3-hoverable w3-striped  w3-padding-32">
+        <thead>
+        <tr class="w3-grey">
+            <th>Games Won</th>
+            <th>Games Lost</th>
+            <th>Win/Loss Ratio</th>
+            
+
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td id="statsGamesWon"></td>
+            <td id="statsGamesLost"></td>
+            <td id="statsWLRatio"></td>
+        </tr>
+        </tbody>
+    </table>
+    </div>
+     <div class="w3-col width20">
+            <p></p>
+    </div>
+    </section>
+
+ <footer class="w3-small w3-center footer lh90">
+        <div class="w3-padding-hor-32"> 
+            <p><a href="./Creators.html">Grupo 016</a></p>
+            <p><p><p><a href="https://moodle.ciencias.ulisboa.pt/course/view.php?id=604">Disciplina: Introdução às Tecnologias Web</a></p>
+            <p><p><a href="https://fenix.ciencias.ulisboa.pt/degrees/tecnologias-de-informacao-564500436615450">Licenciatura em Tecnologias de Informação</a></p>
+            <p><a href="">2017 - All Rights Reserved</a></p>
+        </div>
+    </footer>
+    
+</body>
+</html>

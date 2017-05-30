@@ -1,0 +1,415 @@
+body {
+    background: linear-gradient(90deg,#0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+    
+}
+a {
+    text-decoration: none;     
+    }
+/* Mainpage.html Menu CSS ------- */
+#menu1{
+    background-image: url("../Multimedia/Menu_NoHover_1.png");
+}
+
+#menu1:hover{
+    background-image: url("../Multimedia/Menu_Hover_1.png");
+}
+/**
+#menu2{
+    background-image: url("../Multimedia/Menu_NoHover_2.png");
+}
+
+#menu2:hover{
+    background-image: url("../Multimedia/Menu_Hover_2.png");
+}**/
+#menu3{
+    background-image: url("../Multimedia/Menu_NoHover_3.png");
+}
+
+#menu3:hover{
+    background-image: url("../Multimedia/Menu_Hover_3.png");
+}
+#menu4{
+    background-image: url("../Multimedia/Menu_NoHover_4.png");
+}
+
+#menu4:hover{
+    background-image: url("../Multimedia/Menu_Hover_4.png");
+}
+#menu5{
+    background-image: url("../Multimedia/Menu_NoHover_5.png");
+}
+
+#menu5:hover{
+    background-image: url("../Multimedia/Menu_Hover_5.png");
+}
+/* Mainpage.html menu CSS ------- */
+#logout{		
+    visibility:hidden;		
+}
+.footer{
+    font-size:10px;
+}
+section{
+    font-family:Verdana,Helveca,sans-serif;
+}
+#container {
+    text-align: left;
+    font-size: 15px;
+    line-height: 140%;
+    background: #006699;
+    font-family: OpenSans, Helvica, sans-serif;
+    color: white;
+    text-shadow: 1px 1px #999999;
+}
+/* Play.html CSS ---------------- */
+#SinglePlayerPlayBar{
+    list-style:none;
+    background: url("../Multimedia/Hole.png") no-repeat left center;
+    font-size:23px;
+}
+#SinglePlayerPlayBar:hover{
+    background: url("../Multimedia/GreenBall.png") no-repeat left center;
+}
+#PlayBar > ul > li > a:-webkit-any-link{
+    color:black;
+    text-decoration:none;
+    font-family: Verdana, Helvica, sans-serif;
+}
+
+#MultiPlayerPlayBar{
+    list-style:none;
+    background: url("../Multimedia/Hole.png") no-repeat left center;
+    font-size:23px;
+}
+#MultiPlayerPlayBar:hover{
+    background: url("../Multimedia/BlueBall.png") no-repeat left center;
+}
+#CoopPlayBar{
+    list-style:none;
+    background: url("../Multimedia/Hole.png") no-repeat left center;
+    font-size:23px;
+}
+#CoopPlayBar:hover{
+    background: url("../Multimedia/RedBall.png") no-repeat left center;
+}
+#TimeAttackPlayBar{		
+    list-style:none;		
+    background: url("../Multimedia/Hole.png") no-repeat left center;		
+    font-size:23px;		
+}		
+#TimeAttackPlayBar:hover{		
+    background: url("../Multimedia/YellowBall.png") no-repeat left center;		
+}
+
+/* Login.html ---------------------- */
+
+.LoginBox{
+    background-color:white;
+    border-radius:3px;
+    font-family:OpenSans, Helvica, sans-serif;
+
+}
+.LoginBody{
+    background: linear-gradient(90deg,#0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+}
+
+.LoginBody input{
+    background-color:lightgray;
+    border:0;
+    font-size:16px;
+
+}
+.loginbutton{
+    outline:0;
+    background-color:darkblue;
+    font-family: Roboto, sans-serif;
+    color:white;
+    text-decoration:none;
+}
+.LoginBody a{
+    text-decoration:none;
+
+}
+.notregisteredwarning{
+    font-size:10px;
+
+}
+.notregisteredwarning a{
+    color:darkblue;
+}
+/* UserPage.html CSS -------------------------------- */
+
+.Info{
+    font-family:Geneva,Verdana, sans-serif;
+}
+
+/* leaderboard.html ---------------------------------- */
+
+/*.table{
+    background-color:white;
+    box-sizing:border-box;
+    border-collapse:collapse;
+    font-family:Arial, sans-serif;
+
+}
+.table th{
+    background-color:royalblue;
+    border:1px solid black;
+    color:white;
+    font-weight:lighter;
+}
+.table thead{
+    background-color: royalblue;
+}*/
+
+/* rules.html ----------------------------------------- */
+#titulo2{
+    font-size: 30px;
+
+}
+
+.titulo3{
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.footer a{
+    text-decoration: none;
+    color:black;
+}
+.wiki{
+    display:none;
+}
+
+/* Menu Pequeno ------------------------------------------ */
+
+.MenuPequeno{
+    background-color:#395C6B;
+}
+.MenuPequeno a{
+    text-decoration:none;
+    color:#CACF85;
+}
+.BlueBall{
+    list-style:none;
+    background: url("../Multimedia/Hole.png") no-repeat left center;
+    font-size:16px;
+}
+.BlueBall:hover{
+    background: url("../Multimedia/BlueBall.png") no-repeat left center;
+    
+}
+.GreenBall{
+    list-style:none;
+    background: url("../Multimedia/Hole.png") no-repeat left center;
+    font-size:16px;
+}
+.GreenBall:hover{
+    background: url("../Multimedia/GreenBall.png") no-repeat left center;
+    
+}
+.RedBall{
+    list-style:none;
+    background: url("../Multimedia/Hole.png") no-repeat left center;
+    font-size:16px;
+}
+.RedBall:hover{
+    background: url("../Multimedia/RedBall.png") no-repeat left center;
+}
+.YellowBall{
+    list-style:none;
+    background: url("../Multimedia/Hole.png") no-repeat left center;
+    font-size:16px;
+}
+.YellowBall:hover{
+    background: url("../Multimedia/YellowBall.png") no-repeat left center;
+}
+.PinkBall{
+    list-style:none;
+    background: url("../Multimedia/Hole.png") no-repeat left center;
+    font-size:16px;
+}
+.PinkBall:hover{
+    background: url("../Multimedia/RoseBall.png") no-repeat left center;
+}
+/* CUSTOM FONTS ------------------------ */
+@font-face{
+    font-family:Roboto;
+    src: url("../Multimedia/Roboto/Roboto-Regular.ttf");
+}
+@font-face{
+    font-family: OpenSans;
+    src: url("../Multimedia/Open_Sans/OpenSans-Regular.ttf");
+}
+@font-face{
+    font-family:Bebas;
+    src: url("../Multimedia/Bebas/BebasNeue-Regular.ttf");
+}
+/* UserPage.html CSS -------------------------------- */
+
+.container2 {
+    background-color:white;
+    text-align:justify;
+}
+.container2 a{
+    text-decoration:none;
+}
+.table2 {
+    background-color:white;
+    border-collapse: collapse;
+    font-family:Arial, sans-serif;
+}
+.table2 th{
+    background-color:royalblue;
+    border:1px solid black;
+    color:white;
+    font-weight:lighter;
+}
+.table2 thead{
+    background-color: royalblue;
+}
+#container a{
+    text-decoration:none;
+}
+/* options.html ---------------------------------------------- */
+.LoginBox select{
+    background-color:#2191FB;
+}
+
+/* Game.html CSS ---------------*/
+
+
+#coopHeader{
+    background-color:royalblue;
+    color:white;
+}
+
+.table3 {
+    table-layout: fixed;
+    background: url("../Multimedia/tabuleiro.jpg");
+    width:70%;
+    height:auto;
+    margin:0 auto;
+    font-family:Arial, sans-serif;
+    margin-bottom: 5%;
+    padding:1.5%;
+    border-radius:10px 10px 10px 10px;
+}
+
+.table3 td{
+    /*overflow:auto;*/
+    min-height:50px;
+    width: 50px;
+    /*padding-bottom: 10px*/;
+}
+
+.PlayerPlayBar{
+    list-style:none;
+    background: url("../Multimedia/Hole.png") no-repeat left center;
+    font-size:23px;
+    padding: 10px 0 10px 42px;
+    
+}
+
+.table4 {
+    background-color:white;
+    font-family:Arial, sans-serif;
+
+}
+.table4 th{
+    background-color:royalblue;
+    color:white;
+    font-weight:lighter;
+}
+.table4 thead{
+    background-color: royalblue;
+    width:40%;
+    height:auto;
+    margin:0 auto;
+    font-family:Arial, sans-serif;
+    margin-bottom: 5%;
+    padding:1.5%;
+    border-radius:10px 10px 10px 10px;
+}
+
+.table3 td{
+    overflow:auto;
+    height: 30px;
+    width: 50px;
+    padding-bottom: 10px;
+}
+
+#rightCombDiv{
+    visibility: hidden;
+}
+
+.PlayerPlayBar{
+    list-style:none;
+    background: url("../Multimedia/Hole.png") no-repeat left center;
+    font-size:23px;
+    padding: 10px 0 10px 42px;
+    
+}
+
+.tableProgramming{
+    list-style:none;
+    background: url("../Multimedia/programming_hole.png") no-repeat left center;
+    font-size: 23px;
+    padding: 10px 0 10px 42px;
+    
+}
+
+.tableSocial{
+    list-style:none;
+    background: url("../Multimedia/social_hole.png") no-repeat left center;
+    font-size: 23px;
+    padding: 10px 0 10px 42px;
+   
+}
+
+.tableSports{
+    list-style:none;
+    background: url("../Multimedia/sports_hole.png") no-repeat left center;
+    font-size: 23px;
+    padding: 10px 0 10px 42px;
+    
+}
+
+.tableAnimal{
+    list-style:none;
+    background: url("../Multimedia/animais_hole.png") no-repeat left center;
+    font-size: 23px;
+    padding: 10px 0 10px 42px;
+    
+}
+
+.table4 {
+    background-color:white;
+    font-family:Arial, sans-serif;
+
+}
+.table4 th{
+    background-color:royalblue;
+    color:white;
+    font-weight:lighter;
+}
+.table4 thead{
+    background-color: royalblue;
+}
+
+#timeAttackTimerTable{
+    visibility:hidden;
+}
+
+#coopPlace{
+    visibility:hidden;
+}
+
+#coopTable th{
+    background-color:royalblue;
+    color:white;
+}
+
+#coopTable td{
+    background-color:white;
+}
