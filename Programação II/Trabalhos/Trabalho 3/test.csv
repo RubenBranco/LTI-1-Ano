@@ -1,0 +1,24 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,0.0,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:49:02.334Z,60.1904,-139.5152,3.7,1.0,ml,,,,0.68,ak,ak15793966,2017-04-19T11:53:27.318Z,"72km N of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2017-04-19T11:37:23.530Z,34.006,-116.9966667,17.17,2.0,ml,55,52,0.06351,0.21,ci,ci37628431,2017-04-19T11:48:04.040Z,"5km SE of Yucaipa, CA",earthquake,0.24,0.59,0.18,28,automatic,ci,ci
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,3.0,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,4.0,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,5.0,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,6.0,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,7.0,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,8.0,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,9.0,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,10.0,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,1.2,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,3.4,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,5.6,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,0.5,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,6.4,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,8.5,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,9.8,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,6.1,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,2.5,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,0.8,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,3.4,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,3.6,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-04-19T11:52:00.479Z,65.1915,-148.4986,8.9,7.8,ml,,,,0.55,ak,ak15793971,2017-04-19T11:55:07.755Z,"44km NNW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
